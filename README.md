@@ -45,6 +45,20 @@ Repository ini berisi analisis data komprehensif, dataset bersih, skrip pengolah
 * Rasio perceraian terhadap pernikahan mencapai **22,50%**, di mana **79,8% diajukan oleh pihak istri (*Cerai Gugat*)**.
 * Terdapat korelasi negatif kuat ($r = -0,568$) antara rata-rata pendapatan informal daerah dengan rasio perceraian (penelantaran ekonomi & KDRT menjadi pemicu utama gugatan cerai).
 
+## 🖼️ Galeri Infografis & Visualisasi Analisis
+
+| Makroekonomi & Investasi | Ketenagakerjaan & Nepotisme |
+|:---:|:---:|
+| ![Makro Ekonomi Sumsel](charts/infographic_sumsel_macro_economy.png) | ![Ketenagakerjaan & Nepotisme](charts/infographic_sumsel_labor_nepotism.png) |
+
+| Ketahanan Keluarga & Perceraian | Investasi Korporasi Swasta |
+|:---:|:---:|
+| ![Ketahanan Keluarga](charts/infographic_sumsel_family_divorce.png) | ![Investasi Korporasi](charts/infographic_sumsel_corporate_investment.png) |
+
+| Proyeksi Regional & Forecasting 2030 |
+|:---:|
+| ![Proyeksi 2030](charts/infographic_sumsel_regional_forecast_2030.png) |
+
 ---
 
 ## 🚀 Cara Menjalankan Dashboard
