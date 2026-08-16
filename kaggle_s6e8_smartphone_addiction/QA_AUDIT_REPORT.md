@@ -1,6 +1,7 @@
 # 🛡️ Continuous Multi-Round AI-Assisted QA Audit Report
 **Project:** Kaggle Playground Series S6E8 — *Predicting Smartphone Addiction*  
 **Auditor:** Autonomous AI QA Engineering Agent  
+**Source Kaggle Notebook:** [🔗 `amanshop/s6e8-smartphone-addiction-pipeline`](https://www.kaggle.com/code/amanshop/s6e8-smartphone-addiction-pipeline)  
 **Artifact ID:** `s6e8_full_output_20260816_063841.zip` (99.83 MB)  
 **Total Validated Samples:** 691,369 (Train OOF) | 296,302 (Test Inference)  
 **Audit Date:** 2026-08-16  

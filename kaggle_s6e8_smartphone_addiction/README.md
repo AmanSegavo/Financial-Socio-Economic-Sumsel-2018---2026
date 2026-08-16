@@ -2,7 +2,8 @@
 ### End-to-End Machine Learning Pipeline with Continuous Multi-Round AI QA Auditing
 
 [![Python](https://img.shields.io/badge/Python-3.11%20%7C%203.12-3776AB?logo=python&logoColor=white)](https://python.org)
-[![Kaggle Competition](https://img.shields.io/badge/Kaggle-Playground%20S6E8-20BEFF?logo=kaggle&logoColor=white)](https://kaggle.com/competitions/playground-series-s6e8)
+[![Kaggle Notebook](https://img.shields.io/badge/Kaggle-Live%20Notebook%20(amanshop)-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/code/amanshop/s6e8-smartphone-addiction-pipeline)
+[![Kaggle Competition](https://img.shields.io/badge/Competition-Playground%20S6E8-20BEFF?logo=kaggle&logoColor=white)](https://kaggle.com/competitions/playground-series-s6e8)
 [![ROC-AUC](https://img.shields.io/badge/OOF%20ROC--AUC-0.9635%2B-brightgreen)](QA_AUDIT_REPORT.md)
 [![QA Audit](https://img.shields.io/badge/QA%20Status-5%20Rounds%20Verified%20%E2%9C%85-success)](QA_AUDIT_REPORT.md)
 [![Models](https://img.shields.io/badge/Stack-LightGBM%20%7C%20XGBoost%20%7C%20CatBoost-orange)]()
@@ -11,6 +12,9 @@
 
 ## 📌 Project Overview
 This repository contains the complete, production-grade machine learning solution for the **Kaggle Playground Series (Season 6, Episode 8): Predicting Smartphone Addiction**.
+
+* **Live Kaggle Notebook:** [🔗 `amanshop/s6e8-smartphone-addiction-pipeline`](https://www.kaggle.com/code/amanshop/s6e8-smartphone-addiction-pipeline)
+* **Author / Kaggler:** [@amanshop](https://www.kaggle.com/amanshop)
 
 * **Task:** Binary Classification (Target: `addicted_label`)
 * **Evaluation Metric:** **ROC-AUC** (Area Under the Receiver Operating Characteristic Curve)
